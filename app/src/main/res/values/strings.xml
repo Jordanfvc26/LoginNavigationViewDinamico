@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MenuClase</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Seleccionaste una opción del menú</string>
+</resources>
